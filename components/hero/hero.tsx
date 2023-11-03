@@ -13,7 +13,7 @@ const Hero = () => {
 
         <Typography variant="p" className="mt-4 sm:text-xl/relaxed max-w-3xl">
           Bienvenue sur le site du Cabinet d&apos;avocat A. Harred, avocat
-          dévoué à la protection de vos droits et intérêts.Faites équipe avec
+          dévoué à la protection de vos droits et intérêts. Faites équipe avec
           nous pour faire valoir vos droits et obtenir la justice que vous
           méritez.
         </Typography>
